@@ -33,3 +33,4 @@ do
 done
 
 echo
+echo "All done"
